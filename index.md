@@ -1,7 +1,7 @@
 ---
 title: UH Manoa Meteorites
 ---
-* [Kanak Attack Manoa Organization](https://github.com/kanak-attack-manoa)
+* [Uh Manoa Meteorites Organization](https://github.com/uh-manoa-meteorites)
 * [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
 
 ## Table of contents
