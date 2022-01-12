@@ -173,7 +173,7 @@ meteor npm run lint
 ```
 
 ## Deployment
-A link to our deployed application on Digital Ocean [https://kanak-attack-manoa.xyz/#/](https://kanak-attack-manoa.xyz/#/)
+A link to our deployed application on Digital Ocean 
 
 ## Team Members
 * Nicholas Carr
