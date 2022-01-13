@@ -178,3 +178,5 @@ A link to our deployed application on Digital Ocean
 ## Team Members
 * Nicholas Carr
     * [Portfolio](https://nicholasbcarr.github.io/)
+* Feimei Chen 
+    * [Portfolio](https://feimeichen.github.io/)
