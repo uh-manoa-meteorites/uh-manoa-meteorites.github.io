@@ -144,4 +144,5 @@ A link to our deployed application on Digital Ocean
 ## Team Members
 * Nicholas Carr
     * [Portfolio](https://nicholasbcarr.github.io/)
-
+* Justin Loi
+    * [Portfolio](https://justin-loi.github.io/)
