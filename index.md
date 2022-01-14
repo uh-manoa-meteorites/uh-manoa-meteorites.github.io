@@ -15,6 +15,7 @@ title: UH Manoa Meteorites
 
 ## Overview
 
+We are aiming to create an application that better links volunteers with organizations. This app will better display relevant information with regards to volunteer work specifically and put volunteers in touch with the right people, rather than navigating complicated organization websites. We also plan to be able to filter a map of the island in order to better display more convenient opportunities for users. 
 
 ## User Guide
 
@@ -36,28 +37,35 @@ Signup/Register Page:
 
 ### Admin Home Page
 
+Hold the ability to include admin functionality.
 
 
 ### Browse Organizations
 
+A page where the organizations will be listed equally as not to make one look better than the other
 
 ### Home page
 
-
+Possibly the users home page where they might update any of their information.
 
 ### Add Event
 
+A page that will hold the ability to add an event to a google calender or something similar
 
 ### Share on Social Media
 
+A page that will enable the user to share an event to linked social media accounts.
 
 ### Notice for Logging Hours
 
+We want to be able to have a verification system for those that need to keep track of how many hours of service they do. This would be a toggle via email to the organizations volunteer manager.
 
 ### Badge System
 
+Render profile badges to reflect certain amount of volunteer hours put in.
 
 ## Milestones
+
 * In Milestone 1, we will create mockups for the site pages. [M1 Project Board](https://github.com/uh-manoa-meteorites/uh-manoa-meteorites.github.io/projects/1?add_cards_query=is%3Aopen)
 
 ## Community Feedback
