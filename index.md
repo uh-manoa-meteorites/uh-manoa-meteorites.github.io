@@ -156,3 +156,5 @@ A link to our deployed application on Digital Ocean
     * [Portfolio](https://justin-loi.github.io/)
 * Su Lao
     * [Portfolio](https://sulao1999.github.io/)
+* Irene Ma
+    * [Portfolio](https://irene-ma.github.io/)
