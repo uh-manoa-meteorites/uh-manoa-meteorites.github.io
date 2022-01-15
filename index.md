@@ -29,11 +29,10 @@ When arriving at the landing page, the user has the option to login to an existi
 
 
 Login Page:
-
-
+<img src="./image/sign-in-page.png">
 
 Signup/Register Page:
-
+<img src="./image/volunteer-sign-up-page.png">
 
 ### Admin Home Page
 
