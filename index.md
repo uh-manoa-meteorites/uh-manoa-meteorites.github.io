@@ -160,5 +160,7 @@ A link to our deployed application on Digital Ocean
 * Gerald Lee
     * [Portfolio](https://glee25.github.io/)
 * Tri Pham
-	* [Portfolio](https://tricpham.github.io/)
+    * [Portfolio](https://tricpham.github.io/)
+* Tracy Bui
+    * [Portfolio](https://tbui00.github.io/)
 
