@@ -159,4 +159,6 @@ A link to our deployed application on Digital Ocean
     * [Portfolio](https://irene-ma.github.io/)
 * Gerald Lee
     * [Portfolio](https://glee25.github.io/)
+* Tri Pham
+	* [Portfolio](https://tricpham.github.io/)
 
