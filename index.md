@@ -2,7 +2,7 @@
 title: UH Manoa Meteorites
 ---
 * [Uh Manoa Meteorites Organization](https://github.com/uh-manoa-meteorites)
-* [M1 Project Board](https://github.com/uh-manoa-meteorites/uh-manoa-meteorites.github.io/projects/1?add_cards_query=is%3Aopen)
+* [M1 Project Board](https://github.com/uh-manoa-meteorites/nonprofit-project-template/projects/1)
 
 ## Table of contents
 * [Overview](#overview)
@@ -65,7 +65,7 @@ Render profile badges to reflect certain amount of volunteer hours put in.
 
 ## Milestones
 
-* In Milestone 1, we will create mockups for the site pages. [M1 Project Board](https://github.com/uh-manoa-meteorites/uh-manoa-meteorites.github.io/projects/1?add_cards_query=is%3Aopen)
+* In Milestone 1, we will create mockups for the site pages. [M1 Project Board](https://github.com/uh-manoa-meteorites/nonprofit-project-template/projects/1)
 
 ## Community Feedback
 
