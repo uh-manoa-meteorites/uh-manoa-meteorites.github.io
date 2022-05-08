@@ -10,8 +10,11 @@ title: UH Manoa Meteorites
   * [Login Page](#login-page)
   * [SignUp Page](#signupregister-page)
   * [Volunteer Profile Page](#volunteer-profile-page)
-  * [Edit Volunteer Profile Page](#edit-volunteer-profile-page)
+    * [Edit Volunteer Profile Page](#edit-volunteer-profile-page)
   * [The Search Bar](#search-bar-functionality)
+  * [Browsing Opportunities](#browsing-opportunities)
+    * [Browsing All Opportunities](#browse-all-opportunities)
+    * [Filter Opportunities](#find-a-specific-opportunity)
 * [Milestones](#milestones)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -33,14 +36,14 @@ When arriving at the landing page, the user has the option to login to an existi
 ### Index pages
 
 
-#### Login Page
+### Login Page
 
 To log into a pre-existing account, or to create an account, click the LogIn/SignUp button at the top right corner.
 <img src="./images/loginFinal.png">
 Login to an account here, or click register to sign up!
 <img src="./images/signInFinal.png">
 
-#### Signup/Register Page
+### Signup/Register Page
 
 To create an account, enter the following information and be sure to be older than 16 years of age!  
 
@@ -60,7 +63,7 @@ Finally click Sign Up to finalize an account
 
 Log in with the new credentials [Login Page](#login-page) and the default profile page can now be viewed by the My Profile button on the top right corner  
 
-#### Volunteer Profile Page  
+### Volunteer Profile Page  
   
 Logging in will route the user to their profile page, but at any point the profile page may be viewed via the My Profile button in the top corner of the page on the navigation bar. 
 
@@ -104,9 +107,48 @@ Opportunities can be searched by both Title and Organization
 
 <img src="./images/searchBarSearch.png">  
   
-Click on any card display further information or even add the opportunity to the list and share to social media (must be logged in to add/share the opportunity).
+Click on any card display further information or even add the opportunity to the list and share to social media (must be logged in to add/share the opportunity).  
+  
+### Browsing Opportunities
+  
+There are two different ways to look for new opportunities to volunteer for. 
 
+#### Browse All Opportunities 
 
+To view all upcoming opportunities, simply click the browse opportunities tab button to display the browse all option  
+
+<img src="./images/browseAllOpportunitiesNavBar.png">
+
+Then click Browse Opportunities to view this page  
+
+<img src="./images/browseOpportunitiesPage.png">  
+  
+From here all upcoming opportunities from all organizations can be viewed added, or shared (must be logged in to add or share)  
+  
+#### Find a Specific Opportunity
+
+Opportunities can be search by interest, special abilities, organization name or environmental preference by clicking the Filter Opportunities button on the top right of the page on the navigation bar
+
+<img src="./images/filterOpportunitiesButton.png">  
+  
+Clicking the button will display the filter opportunities page  
+
+<img src="./images/filterOpportunitiesPageOverview.png"> 
+
+Click any of the tabs on the left hand side to search specific opportunities by the desired category, for example, a volunteer may be interested in opportunities involving environment, education or both  
+
+<img src="./images/filterInterestExample.png">  
+  
+In this case, only opportunities involving both environment and education are displayed when clicking the Submit button  
+
+<img src="./images/filterOpportunitiesRenderTwo.png">  
+  
+Removing the education interest by unchecking the box and clicking submit will display only opportunities relating to environment  
+
+<img src="./images/filterOpportunitiesRenderOne.png">    
+  
+At any point an opportunity can be added or shared  
+  
 
 ### Admin Home Page
 
