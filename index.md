@@ -55,8 +55,9 @@ Finally click Sign Up to finalize an account
 
 <img src="./images/signUpSuccess.png">  
 
-Log in with the new credentials [Login Page](#login-page) and the default profile page can now be viewed by the My Profile button on the top right corner 
-<img src="./images/viewProfileButton.png">
+Log in with the new credentials [Login Page](#login-page) and the default profile page can now be viewed by the My Profile button on the top right corner  
+
+<img src="./images/viewProfileButtonVolunteer.png">  
 
 ### Admin Home Page
 
