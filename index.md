@@ -9,6 +9,7 @@ title: UH Manoa Meteorites
 * [User Guide](#user-guide)
   * [Login Page](#login-page)
   * [SignUp Page](#signupregister-page)
+  * [Volunteer Profile Page](#v)
 * [Milestones](#milestones)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -57,8 +58,47 @@ Finally click Sign Up to finalize an account
 
 Log in with the new credentials [Login Page](#login-page) and the default profile page can now be viewed by the My Profile button on the top right corner  
 
-<img src="./images/viewProfileButtonVolunteer.png">  
+#### Volunteer Profile Page  
+  
+Logging in will route the user to their profile page, but at any point the profile page may be viewed via the My Profile button in the top corner of the page on the navigation bar. 
 
+<img src="./images/viewProfileButtonVolunteer.png">   
+  
+A basic volunteer profile looks similar to this:  
+
+<img src="./images/volunteerProfileTop.png.png">  
+  
+Opportunities the volunteer is interested in are displayed as well as the total number of hours volunteered and other useful information. The bottom portion of the profile page shows other special interests.
+
+<img src="./images/volunteerProfileBottom.png">  
+
+#### Edit Volunteer Profile Page  
+
+To edit or update any information on the profile page or to change a picture, click on the Edit Profile button  
+
+<img src="./images/editVolunteerProfileButton.png">  
+  
+The Edit Profile Page will now be displayed, if no changes are made or the submit button is never clicked the profile will remain unchanged. Edit any information or change the picture.
+
+<img src="./images/editVolunteerProfileTop.png">  
+  
+Update any new abilities or change in environmental preference  
+
+<img src="./images/editVolunteerProfileBottom.png"> 
+
+When the changes are completed, click Submit and this message will display confirming changes were successful  
+
+<img src="./images/editVolunteerProfileSuccess.png">  
+  
+All changes are now reflected on the volunteer profile page
+
+
+
+  
+
+  
+
+  
 ### Admin Home Page
 
 Hold the ability to include admin functionality.
