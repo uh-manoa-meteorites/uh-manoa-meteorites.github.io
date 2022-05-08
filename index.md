@@ -15,6 +15,8 @@ title: UH Manoa Meteorites
   * [Browsing Opportunities](#browsing-opportunities)
     * [Browsing All Opportunities](#browse-all-opportunities)
     * [Filter Opportunities](#find-a-specific-opportunity)
+  * [Adding an Opportunity to the Volunteer Profile](#adding-an-opportunity-to-the-volunteer-profile)
+  * [Opportunity Profile Page](#opportunity-profile-page)
 * [Milestones](#milestones)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -148,6 +150,29 @@ Removing the education interest by unchecking the box and clicking submit will d
 <img src="./images/fiterOpportunitiesRenderOne.png">    
   
 At any point an opportunity can be added or shared  
+  
+### Adding an Opportunity to the Volunteer Profile  
+  
+Opportunities can be added to the volunteer profile at any time, this allows the volunteer to keep track of upcoming events and serve as a way to claim hours if the event was attended (opportunities can only be added if a volunteer is logged in however all relevant opportunity information can be viewed by anyone as to promote views of an opportunity). For example, Jeff only plans on attending or is interesting in attending only one event  
+
+<img src="./images/preAddEventProfile.png"> 
+
+Adding opportunities can be done from any page, in this case and event is added from the [landing page](#landing-page)  
+
+<img src="./images/addEventLanding.png">  
+  
+Adding the Back 2 School opportunity by clicking the Add Opportunity button will display a success message  
+
+<img src="./images/addEventSuccess.png">    
+  
+Now the opportunity is tracked on the volunteer's profile like for Jeff  
+
+<img src="./images/postAddEventProfile.png">
+  
+Jeff can now click on an opportunity to see and communicate information about it by clicking a card (this can be done from anywhere there is an event card) and displaying the [opportunity profile page](#opportunity-profile-page)   
+
+### Opportunity Profile Page  
+  
   
 
 ### Admin Home Page
