@@ -34,7 +34,7 @@ When arriving at the landing page, the user has the option to login to an existi
 To log into a pre-existing account, or to create an account, click the LogIn/SignUp button at the top right corner.
 <img src="./images/loginFinal.png">
 Login to an account here, or click register to sign up!
-<img src="./images/loginFinal.png">
+<img src="./images/signInFinal.png">
 
 #### Signup/Register Page:
 
@@ -44,9 +44,11 @@ Continue by filling out the information, anything marked with a red asterisk is 
 <img src="./images/signUpMiddle.png">
 Make sure to agree to the terms and conditions and select any availability or environmental preference of note.
 <img src="./images/signUpBottom.png">
-Finally click Sign Up to finalize an account
-<img src="./images/signUpSuccess.png">
-Log in with the new credentials [Login Page](#login-page) and the default profile page can now be viewed by the My Profile button on the top right corner (view.
+Finally click Sign Up to finalize an account  
+
+<img src="./images/signUpSuccess.png">  
+
+Log in with the new credentials [Login Page](#login-page) and the default profile page can now be viewed by the My Profile button on the top right corner 
 <img src="./images/viewProfileButton.png">
 
 ### Admin Home Page
