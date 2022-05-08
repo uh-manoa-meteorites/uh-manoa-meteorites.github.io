@@ -7,6 +7,7 @@ title: UH Manoa Meteorites
 ## Table of contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Login Page](#login-page)
 * [Milestones](#milestones)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -28,11 +29,25 @@ When arriving at the landing page, the user has the option to login to an existi
 ### Index pages
 
 
-Login Page:
-<img src="./images/sign-in-page.png">
+#### Login Page
 
-Signup/Register Page:
-<img src="./images/volunteer-sign-up-page.png">
+To log into a pre-existing account, or to create an account, click the LogIn/SignUp button at the top right corner.
+<img src="./images/loginFinal.png">
+Login to an account here, or click register to sign up!
+<img src="./images/loginFinal.png">
+
+#### Signup/Register Page:
+
+To create an account, enter the following information and be sure to be older than 16 years of age!
+<img src="./images/signUpTop.png">
+Continue by filling out the information, anything marked with a red asterisk is required. Choose special interests, upload a profile picture, and pick special skills to be displayed on a profile page.
+<img src="./images/signUpMiddle.png">
+Make sure to agree to the terms and conditions and select any availability or environmental preference of note.
+<img src="./images/signUpBottom.png">
+Finally click Sign Up to finalize an account
+<img src="./images/signUpSuccess.png">
+Log in with the new credentials [Login Page](#login-page) and the default profile page can now be viewed by the My Profile button on the top right corner (view.
+<img src="./images/viewProfileButton.png">
 
 ### Admin Home Page
 
