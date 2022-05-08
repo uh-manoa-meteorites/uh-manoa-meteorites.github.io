@@ -7,7 +7,8 @@ title: UH Manoa Meteorites
 ## Table of contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
-* [Login Page](#login-page)
+  * [Login Page](#login-page)
+  * [SignUp Page](#signupregister-page)
 * [Milestones](#milestones)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -36,14 +37,20 @@ To log into a pre-existing account, or to create an account, click the LogIn/Sig
 Login to an account here, or click register to sign up!
 <img src="./images/signInFinal.png">
 
-#### Signup/Register Page:
+#### Signup/Register Page
 
-To create an account, enter the following information and be sure to be older than 16 years of age!
-<img src="./images/signUpTop.png">
-Continue by filling out the information, anything marked with a red asterisk is required. Choose special interests, upload a profile picture, and pick special skills to be displayed on a profile page.
-<img src="./images/signUpMiddle.png">
-Make sure to agree to the terms and conditions and select any availability or environmental preference of note.
-<img src="./images/signUpBottom.png">
+To create an account, enter the following information and be sure to be older than 16 years of age!  
+
+<img src="./images/signUpTop.png">  
+
+Continue by filling out the information, anything marked with a red asterisk is required. Choose special interests, upload a profile picture, and pick special skills to be displayed on a profile page.  
+
+<img src="./images/signUpMiddle.png">  
+
+Make sure to agree to the terms and conditions and select any availability or environmental preference of note.  
+
+<img src="./images/signUpBottom.png">  
+
 Finally click Sign Up to finalize an account  
 
 <img src="./images/signUpSuccess.png">  
