@@ -11,6 +11,7 @@ title: UH Manoa Meteorites
   * [SignUp Page](#signupregister-page)
   * [Volunteer Profile Page](#volunteer-profile-page)
   * [Edit Volunteer Profile Page](#edit-volunteer-profile-page)
+  * [The Search Bar](#search-bar-functionality)
 * [Milestones](#milestones)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -92,14 +93,21 @@ When the changes are completed, click Submit and this message will display confi
 <img src="./images/editVolunteerProfileSuccess.png">  
   
 All changes are now reflected on the volunteer profile page
-
-
-
   
-
+### The Search Bar  
   
+At any point, the search bar can be used regardless of login status, the search bar is displayed on the top left of the page on the navigation bar
 
+<img src="./images/searchBar.png">  
   
+Opportunities can be searched by both Title and Organization
+
+<img src="./images/searchBarSearch.png">  
+  
+Click on any card display further information or even add the opportunity to the list (must be logged in to add the event).
+
+
+
 ### Admin Home Page
 
 Hold the ability to include admin functionality.
