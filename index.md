@@ -35,9 +35,6 @@ This is a user guide for Volunteer Ally.
 
 When arriving at the landing page, the user has the option to login to an existing account or create a new one. It also displays general information about the app in case the user is contemplating creating an account.
 
-### Index pages
-
-
 ### Login Page
 
 To log into a pre-existing account, or to create an account, click the LogIn/SignUp button at the top right corner.
@@ -153,15 +150,15 @@ At any point an opportunity can be added or shared
   
 ### Adding an Opportunity to the Volunteer Profile  
   
-Opportunities can be added to the volunteer profile at any time, this allows the volunteer to keep track of upcoming events and serve as a way to claim hours if the event was attended (opportunities can only be added if a volunteer is logged in however all relevant opportunity information can be viewed by anyone as to promote views of an opportunity). For example, Jeff only plans on attending or is interesting in attending only one event  
+Opportunities can be added to the volunteer profile at any time, this allows the volunteer to keep track of upcoming opportunities and serve as a way to claim hours if the opportunity was attended (opportunities can only be added if a volunteer is logged in however all relevant opportunity information can be viewed by anyone as to promote views of an opportunity). For example, Jeff only plans on attending or is interesting in attending only one opportunity  
 
 <img src="./images/preAddEventProfile.png"> 
 
-Adding opportunities can be done from any page, in this case and event is added from the [landing page](#landing-page)  
+Adding opportunities can be done from any page, in this case the opportunity is added from the [landing page](#landing-page)  
 
 <img src="./images/addEventLanding.png">  
   
-Adding the Back 2 School opportunity by clicking the Add Opportunity button will display a success message  
+Adding the Back 2 School opportunity by clicking the Add Event button will display a success message  
 
 <img src="./images/addEventSuccess.png">    
   
@@ -169,7 +166,7 @@ Now the opportunity is tracked on the volunteer's profile like for Jeff
 
 <img src="./images/postAddEventProfile.png">
   
-Jeff can now click on an opportunity to see and communicate information about it by clicking a card (this can be done from anywhere there is an event card) and displaying the [opportunity profile page](#opportunity-profile-page)   
+Jeff can now click on an opportunity to see and communicate information about it by clicking a card (this can be done from anywhere there is an opportunity card) and displaying the [opportunity profile page](#opportunity-profile-page)   
 
 ### Opportunity Profile Page  
   
@@ -188,13 +185,13 @@ A page where the organizations will be listed equally as not to make one look be
 
 Possibly the users home page where they might update any of their information.
 
-### Add Event
+#### Add Opportunity
 
-A page that will hold the ability to add an event to a google calender or something similar
+A page that will hold the ability to add an opportunity to a google calender or something similar
 
 ### Share on Social Media
 
-A page that will enable the user to share an event to linked social media accounts.
+A page that will enable the user to share an opportunity to linked social media accounts.
 
 ### Notice for Logging Hours
 
