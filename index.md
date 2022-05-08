@@ -145,7 +145,7 @@ In this case, only opportunities involving both environment and education are di
   
 Removing the education interest by unchecking the box and clicking submit will display only opportunities relating to environment  
 
-<img src="./images/filterOpportunitiesRenderOne.png">    
+<img src="./images/fiterOpportunitiesRenderOne.png">    
   
 At any point an opportunity can be added or shared  
   
