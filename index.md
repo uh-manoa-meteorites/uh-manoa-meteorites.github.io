@@ -104,7 +104,7 @@ Opportunities can be searched by both Title and Organization
 
 <img src="./images/searchBarSearch.png">  
   
-Click on any card display further information or even add the opportunity to the list (must be logged in to add the event).
+Click on any card display further information or even add the opportunity to the list and share to social media (must be logged in to add/share the opportunity).
 
 
 
