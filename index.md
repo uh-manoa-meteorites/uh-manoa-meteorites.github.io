@@ -66,7 +66,7 @@ Logging in will route the user to their profile page, but at any point the profi
   
 A basic volunteer profile looks similar to this:  
 
-<img src="./images/volunteerProfileTop.png.png">  
+<img src="./images/volunteerProfileTop.png">  
   
 Opportunities the volunteer is interested in are displayed as well as the total number of hours volunteered and other useful information. The bottom portion of the profile page shows other special interests.
 
