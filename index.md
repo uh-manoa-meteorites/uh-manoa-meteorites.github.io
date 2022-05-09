@@ -16,7 +16,11 @@ title: UH Manoa Meteorites
     * [Browsing All Opportunities](#browse-all-opportunities)
     * [Filter Opportunities](#find-a-specific-opportunity)
   * [Adding an Opportunity to the Volunteer Profile](#adding-an-opportunity-to-the-volunteer-profile)
+  * [Sharing an Opportunity to Social Media](#)
   * [Opportunity Profile Page](#opportunity-profile-page)
+    * [Send Email Button](#email-organization)
+    * [Send Direct Message Button](#send-direct-message)
+    * [Get Directions Button](#get-directions)
 * [Milestones](#milestones)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -166,11 +170,87 @@ Now the opportunity is tracked on the volunteer's profile like for Jeff
 
 <img src="./images/postAddEventProfile.png">
   
-Jeff can now click on an opportunity to see and communicate information about it by clicking a card (this can be done from anywhere there is an opportunity card) and displaying the [opportunity profile page](#opportunity-profile-page)   
+Jeff can now click on an opportunity to see and communicate information about it by clicking a card (this can be done from anywhere there is an opportunity card) and displaying the [opportunity profile page](#opportunity-profile-page)  
+  
+### Sharing an Opportunity to Social Media  
+  
+While logged in, a volunteer may share an opportunity to Facebook, Twitter, Email or Pinterest by clicking on the associated icon on an opportunity card
+
+<img src="./images/shareOpportunityIcon.png">  
+  
+Clicking on the twitter icon, for example, will open a pop-up window prompting logging in to the twitter (facebook/pinterest/email) before sharing the opportunity on the associated social media page  
+
+<img src="./images/twitterShareWindow.png">  
+  
+Or sharing to facebook  
+
+<img src="./images/facebookShare.png">   
+  
+A link to the  [opportunity profile page](#opportunity-profile-page) will be seen on the associated social media page
+
+<img src="./images/facebookPost.png"> 
+
+Once again, click the link to see further information regarding the opportunity
 
 ### Opportunity Profile Page  
   
+The opportunity profile page displays relevant information deemed necessary by an organization administrator that [creates the opportunity](#create-opportunity) creates opportunities on behalf of the organization. The opportunity profile has a customizable banner (only when logged in as an organization), a [directions button](#get-directions), a [direct messaging button](#send-direct-message), and a [send email button](#send-an-email)
+
+<img src="./images/eventProfileTop.png">  
   
+More relevant information along with an organization specific photo gallery component  
+
+<img src="./images/eventProfileMiddle.png">  
+  
+Lastly, the relevant interest, desired special skills and environmental atmosphere
+
+<img src="./images/eventProfileBottom.png">   
+  
+The opportunity profile page can be modified by a logged in organization representative
+
+#### Send an Email  
+  
+To send an email from the opportunity profile page, simply click send email located towards the top  
+
+<img src="./images/sendEmailButtonPreClick.png">  
+  
+Clicking the button displays the email page  
+
+<img src="./images/sendEmailBox.png">  
+    
+Clicking Submit will send the email queueing a pop up window to notify the volunteer it was delivered to the associated volunteer representative for the organization holding the opportunity  
+
+<img src="./images/sendEmailSuccess.png">  
+  
+The volunteer may now continue navigation  
+  
+#### Send Direct Message  
+  
+Sending a direct message is similar to sending an email but the volunteer representive will read the message on the application [inbox page](#direct-message-inbox) instead of their email account. To send a "DM" simply click the Direct Message button
+
+<img src="./images/sendEmailButtonPreClick.png">  
+  
+Clicking the Direct Message button will display a direct message pop up box  
+
+<img src="./images/dmPopUp.png">  
+  
+Clicking send will display a message that the message sent, if successful  
+<img src="./images/dmSuccess.png">  
+  
+The message can no be seen in the [direct message inbox](#direct-message-inbox) page of the associated organization to view upon their next login  
+  
+#### Get Directions  
+  
+Clicking the Get Direction button on the event profile will pop up a map window allowing for location view and directions to the opportunity address via google maps  
+
+<img src="./images/sendEmailButtonPreClick.png">  
+  
+Clicking the Get Directions button will display this pop up window  
+
+<img src="./images/googleMapPage.png">  
+  
+This particular opportunity has an address of 222 Banana Rd. Florida
+
 
 ### Admin Home Page
 
