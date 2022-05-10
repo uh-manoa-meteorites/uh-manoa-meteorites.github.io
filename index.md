@@ -23,9 +23,9 @@ title: UH Manoa Meteorites
         * [Get Directions Button](#get-directions)
     * [Organization Profile Page](#organization-profile-page)
     * [About Us Page](#about-us-page)
-    * [Organization Sign Up](#org-signup)
-    * [Add Opportunity](#add-opport)
-    * [Admin Experience](#admin)
+    * [Organization Sign Up](#organization-sign-up)
+    * [Add Opportunity](#add-opportunity)
+    * [Admin Experience](#admin-experience)
 * [Milestones](#milestones)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -304,7 +304,7 @@ The about us page is information pertaining to the founders of Volunteer Ally an
   
 Simple, yet refined...  
   
-### [Organization Sign Up](#org-signup)
+### Organization Sign Up
 
 The organization signup is only accessible from the admin user by request of the client. After filling in the relevant information, the organization is registered in the database and has a login that can be used to create opportunities.
 
@@ -312,14 +312,14 @@ The organization signup is only accessible from the admin user by request of the
 <img src="./images/org-signup-2.png">  
 <img src="./images/org-signup-3.png">  
 
-### [Add Opportunity](#add-opport)
+### Add Opportunity
 
 The add opportunity page is only accessible from the organization user by pressing "Add Opportunity" in the Navigation Bar. After filling in the relevant information, the opportunity is registered in the database and users can sign up to them. 
 
 <img src="./images/add-opport-1.png">  
 <img src="./images/add-opport-2.png">  
 
-### [Admin Experience](#admin)
+### Admin Experience
 
 After logging in with the admin credentials, the admin can manage the database by pressing "Admin" in the Navigation Bar. The admin is first directed to a table with the list of volunteers in the system. For each volunteer, the admin can see the volunteer's name, email, phone number. In addition, the admin can delete a volunteer by pressing the "Delete" in the "Actions" column. 
 
