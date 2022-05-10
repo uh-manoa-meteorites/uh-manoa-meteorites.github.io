@@ -22,7 +22,10 @@ title: UH Manoa Meteorites
         * [Send Direct Message Button](#send-direct-message)
         * [Get Directions Button](#get-directions)
     * [Organization Profile Page](#organization-profile-page)
-    * [About Us Page](#about-us-page) 
+    * [About Us Page](#about-us-page)
+    * [Organization Sign Up](#org-signup)
+    * [Add Opportunity](#add-opport)
+    * [Admin Experience](#admin)
 * [Milestones](#milestones)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -301,36 +304,31 @@ The about us page is information pertaining to the founders of Volunteer Ally an
   
 Simple, yet refined...  
   
+### [Organization Sign Up](#org-signup)
 
+The organization signup is only accessible from the admin user by request of the client. After filling in the relevant information, the organization is registered in the database and has a login that can be used to create opportunities.
 
-### Admin Home Page
+<img src="./images/org-signup-1.png">  
+<img src="./images/org-signup-2.png">  
+<img src="./images/org-signup-3.png">  
 
-Hold the ability to include admin functionality.
+### [Add Opportunity](#add-opport)
 
+The add opportunity page is only accessible from the organization user by pressing "Add Opportunity" in the Navigation Bar. After filling in the relevant information, the opportunity is registered in the database and users can sign up to them. 
 
-### Browse Organizations
+<img src="./images/add-opport-1.png">  
+<img src="./images/add-opport-2.png">  
 
-A page where the organizations will be listed equally as not to make one look better than the other
+### [Admin Experience](#admin)
 
-### Home page
+After logging in with the admin credentials, the admin can manage the database by pressing "Admin" in the Navigation Bar. The admin is first directed to a table with the list of volunteers in the system. For each volunteer, the admin can see the volunteer's name, email, phone number. In addition, the admin can delete a volunteer by pressing the "Delete" in the "Actions" column. 
 
-Possibly the users home page where they might update any of their information.
+<img src="./images/admin-1.png">  
 
-#### Add Opportunity
+The admin can then go to the table with the list of opportunities. For each opportunity, the admin can see the name, time, organization, and POC email. In addition, the admin can delete an opportunity by the same actions as deleting a volunteer. The "View Button" lets the admin verify the hours that each volunteer did for the particular event and download the the information into a csv file. 
 
-A page that will hold the ability to add an opportunity to a google calender or something similar
+<img src="./images/admin-2.png">  
 
-### Share on Social Media
-
-A page that will enable the user to share an opportunity to linked social media accounts.
-
-### Notice for Logging Hours
-
-We want to be able to have a verification system for those that need to keep track of how many hours of service they do. This would be a toggle via email to the organizations volunteer manager.
-
-### Badge System
-
-Render profile badges to reflect certain amount of volunteer hours put in.
 
 ## Milestones
 
