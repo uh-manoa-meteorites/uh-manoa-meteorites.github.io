@@ -37,7 +37,8 @@ We are aiming to create an application that better links volunteers with organiz
 
 This is a user guide for Volunteer Ally.
 
-### Landing Page
+### Landing Page 
+
 
 The landing page is kept simple with a navigations bar, top visual information section   
 
@@ -53,7 +54,8 @@ Sign up option with footer at the bottom
   
 Most of the purposeful interfacing users do with the application do not derive from the landing page, however there are a few options
 
-### Login Page
+### Login Page  
+##### [jump to table of contents](#table-of-contents)
 
 To log into a pre-existing account, or to create an account, click the LogIn/SignUp button at the top right corner.
 <img src="./images/loginFinal.png">
@@ -80,7 +82,8 @@ Finally click Sign Up to finalize an account
 
 Log in with the new credentials [Login Page](#login-page) and the default profile page can now be viewed by the My Profile button on the top right corner  
 
-### Volunteer Profile Page  
+### Volunteer Profile Page   
+##### [jump to table of contents](#table-of-contents)
   
 Logging in will route the user to their profile page, but at any point the profile page may be viewed via the My Profile button in the top corner of the page on the navigation bar. 
 
@@ -115,6 +118,7 @@ When the changes are completed, click Submit and this message will display confi
 All changes are now reflected on the volunteer profile page
   
 ### The Search Bar  
+##### [jump to table of contents](#table-of-contents)
   
 At any point, the search bar can be used regardless of login status, the search bar is displayed on the top left of the page on the navigation bar
 
@@ -166,7 +170,8 @@ Removing the education interest by unchecking the box and clicking submit will d
   
 At any point an opportunity can be added or shared  
   
-### Adding an Opportunity to the Volunteer Profile  
+### Adding an Opportunity to the Volunteer Profile
+##### [jump to table of contents](#table-of-contents)
   
 Opportunities can be added to the volunteer profile at any time, this allows the volunteer to keep track of upcoming opportunities and serve as a way to claim hours if the opportunity was attended (opportunities can only be added if a volunteer is logged in however all relevant opportunity information can be viewed by anyone as to promote views of an opportunity). For example, Jeff only plans on attending or is interesting in attending only one opportunity  
 
@@ -186,7 +191,8 @@ Now the opportunity is tracked on the volunteer's profile like for Jeff
   
 Jeff can now click on an opportunity to see and communicate information about it by clicking a card (this can be done from anywhere there is an opportunity card) and displaying the [opportunity profile page](#opportunity-profile-page)  
   
-### Sharing an Opportunity to Social Media  
+### Sharing an Opportunity to Social Media
+##### [jump to table of contents](#table-of-contents)
   
 While logged in, a volunteer may share an opportunity to Facebook, Twitter, Email or Pinterest by clicking on the associated icon on an opportunity card
 
@@ -207,6 +213,7 @@ A link to the  [opportunity profile page](#opportunity-profile-page) will be see
 Once again, click the link to see further information regarding the opportunity
 
 ### Opportunity Profile Page  
+##### [jump to table of contents](#table-of-contents)
   
 The opportunity profile page displays relevant information deemed necessary by an organization administrator that [creates the opportunity](#create-opportunity) creates opportunities on behalf of the organization. The opportunity profile has a customizable banner (only when logged in as an organization), a [directions button](#get-directions), a [direct messaging button](#send-direct-message), and a [send email button](#send-an-email)
 
@@ -265,7 +272,8 @@ Clicking the Get Directions button will display this pop up window
   
 This particular opportunity has an address of 222 Banana Rd. Florida
   
-### Organization Profile Page  
+### Organization Profile Page   
+##### [jump to table of contents](#table-of-contents)
   
 The organization profile is similar to the volunteer profile except for that it is visible to not only registered volunteers but general application traffic as well. The organization profile can be reached by using the organization library. First click the organization library button on the navigation bar  
 
