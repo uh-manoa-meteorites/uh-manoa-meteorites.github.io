@@ -39,7 +39,19 @@ This is a user guide for Volunteer Ally.
 
 ### Landing Page
 
-When arriving at the landing page, the user has the option to login to an existing account or create a new one. It also displays general information about the app in case the user is contemplating creating an account.
+The landing page is kept simple with a navigations bar, top visual information section   
+
+<img src="./images/landingTop.png">
+  
+Randomly generated opportunities filling out the middle  
+
+<img src="./images/landingMiddle.png">
+  
+Sign up option with footer at the bottom   
+
+<img src="./images/landingBottom.png">  
+  
+Most of the purposeful interfacing users do with the application do not derive from the landing page, however there are a few options
 
 ### Login Page
 
