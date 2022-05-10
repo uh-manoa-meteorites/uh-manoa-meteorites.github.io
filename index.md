@@ -21,6 +21,8 @@ title: UH Manoa Meteorites
         * [Send Email Button](#email-organization)
         * [Send Direct Message Button](#send-direct-message)
         * [Get Directions Button](#get-directions)
+    *[Organization Profile Page](#organization-profile-page) 
+    *[About Us Page](#about-us-page) 
 * [Milestones](#milestones)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -250,6 +252,35 @@ Clicking the Get Directions button will display this pop up window
 <img src="./images/googleMapPage.png">  
   
 This particular opportunity has an address of 222 Banana Rd. Florida
+  
+### Organization Profile Page  
+  
+The organization profile is similar to the volunteer profile except for that it is visible to not only registered volunteers but general application traffic as well. The organization profile can be reached by using the organization library. First click the organization library button on the navigation bar  
+
+<img src="./images/organizationLibraryButton.png">   
+  
+Then any organization can be clicked from this point to display all the relevant organization and opportunities they have  
+
+<img src="./images/orgLibrary.png">  
+  
+Clicking on the Red Cross opens there profile page  
+
+<img src="./images/orgProfileTop.png">  
+  
+And some of the upcoming events  
+
+<img src="./images/orgProfileEvents.png">  
+  
+The organization profile can be expanded and the email/dm option can easily be moved to the organization profile as well  
+  
+### About Us Page  
+ 
+The about us page is information pertaining to the founders of Volunteer Ally and information on their goals  
+
+<img src="./images/aboutUsTop.png">  
+  
+Simple, yet refined...  
+  
 
 
 ### Admin Home Page
@@ -283,7 +314,12 @@ Render profile badges to reflect certain amount of volunteer hours put in.
 
 ## Milestones
 
-* In Milestone 1, we will create mockups for the site pages. [M1 Project Board](https://github.com/uh-manoa-meteorites/nonprofit-project-template/projects/1)
+* [M1 Project Board](https://github.com/uh-manoa-meteorites/nonprofit-project-template/projects/1)
+* [M2 Project Board](https://github.com/uh-manoa-meteorites/nonprofit-project-template/projects/3)
+* [M3 Project Board](https://github.com/uh-manoa-meteorites/nonprofit-project-template/projects/4)
+* [M4 Project Board](https://github.com/uh-manoa-meteorites/nonprofit-project-template/projects/6)
+* [M5 Project Board](https://github.com/uh-manoa-meteorites/nonprofit-project-template/projects/7)
+* [M6 Project Board](https://github.com/uh-manoa-meteorites/nonprofit-project-template/projects/8)
 
 ## Community Feedback
 
