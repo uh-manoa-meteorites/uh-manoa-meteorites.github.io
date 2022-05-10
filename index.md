@@ -1,8 +1,8 @@
 ---
 title: UH Manoa Meteorites
----
+---  
+
 * [Uh Manoa Meteorites Organization](https://github.com/uh-manoa-meteorites)
-* [M1 Project Board](https://github.com/uh-manoa-meteorites/nonprofit-project-template/projects/1)
 
 ## Table of contents
 * [Overview](#overview)
